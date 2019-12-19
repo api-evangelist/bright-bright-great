@@ -1,0 +1,49 @@
+{
+    "name": "Bright Bright Great",
+    "description": "Web Design, Development, Brand Strategy",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3765-bright-bright-great.jpg",
+    "tags": [
+        "agencies",
+        "design",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bright-bright-great\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Bright Bright Great",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3765-bright-bright-great.jpg",
+            "humanURL": "http:\/\/brightbrightgreat.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bright-bright-great-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/bbg"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/bright-bright-great"
+        },
+        {
+            "type": "Email",
+            "url": "sayhello@brightbrightgreat.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/brightbrightgreat.com\/"
+        }
+    ]
+}
